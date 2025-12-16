@@ -1,8 +1,8 @@
 <img width="1368" height="912" alt="image" src="https://github.com/user-attachments/assets/29e66684-2301-4d1f-90b9-5594c56462ef" />
 
 
-# [Press here for the presentaion]([https://drive.google.com/file/d/1WCNJ6cxpMdlu-C0e9Ki3Vqim6Go2SQ1N/view?usp=sharing](https://docs.google.com/presentation/d/11l6-j5WGnAAK4xcEXnIaiGE2Kw_sDro4/edit?usp=sharing&ouid=115227937064906992734&rtpof=true&sd=true))
-# [Press here for the documentaion]([https://drive.google.com/file/d/1lcEVN5KwH0De5sPRRN1EKekQoo5XDGQi/view?usp=sharing](https://drive.google.com/file/d/1ymtEfrDxTCGU6EWd_3HIs05DDitL66Rz/view?usp=sharing))
+# [Press here for the presentaion](https://docs.google.com/presentation/d/11l6-j5WGnAAK4xcEXnIaiGE2Kw_sDro4/edit?usp=sharing&ouid=115227937064906992734&rtpof=true&sd=true)
+# [Press here for the documentaion](https://drive.google.com/file/d/1ymtEfrDxTCGU6EWd_3HIs05DDitL66Rz/view?usp=sharing)
 
 # Advanced Enterprise Network Implementation
 
